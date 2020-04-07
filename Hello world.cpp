@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 
-int main(int argc, char** argv)
+int
+main(int argc, char** argv)
 {
  string name;  // User n.
  cin >> name;  // Ввод данных
